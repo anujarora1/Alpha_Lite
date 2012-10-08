@@ -1,0 +1,10 @@
+*.class
+
+# Package Files #
+relevance/lib/*
+relevance/IR*.txt
+relevance/transcript
+relevance/Transcript*
+*.jar
+*.war
+*.ear

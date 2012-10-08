@@ -1,0 +1,5 @@
+
+
+Goals - Allow user to add entity types - this is equivalent to a schema, and create relationships between these entities
+
+ - Allow user to add entities

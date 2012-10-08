@@ -1,0 +1,3 @@
+<Entity name="IETM_Part" displayName="Part">
+	<Attribute>part_number</Attribute>
+	<Attribute>part_name</Attribute></Entity>
